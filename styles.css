@@ -1,0 +1,28 @@
+          a {
+                color:Green;
+            }
+            body {
+                background-color: #EAF6F6;
+            }
+                h1  {
+             color:#99e82a;
+         }
+         h3 {
+             color: #66bfbf;
+         }
+            hr {
+                border-style:dotted none none;
+               border-color:pink;
+               border-width:5px;
+                width:15%;
+                        }
+                        
+                        img{
+                width:150px;
+            border-radius:90px;
+            }     
+            .main-heading {
+                padding:0px;
+                text-align:center;
+                background-color:white;
+            }
